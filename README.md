@@ -1,7 +1,7 @@
 # Minerando Exercícios em Ruby 💎
-Alguns exercícios que eu realizei em Ruby, apenas para aprender e demonstrar meu desenvolvimento com essa linguagem maravilhosa. Listei cada exercício em sua respectiva branch para que cada um tivesse uma singularidade melhor.
+Alguns exercícios que eu realizei em Ruby, apenas para aprender e demonstrar meu desenvolvimento com essa linguagem maravilhosa. Listei cada exercício em sua respectiva branch para que cada um tivesse uma singularidade melhor:
 
-- [Execício 1: Calculadora](lgshogun/ruby-exercises/branch).
+-
 
 Para saber do progresso e updates realizados, use o [Changelog](CHANGELOG.md), lá irá conter tudo que realizei até então. Ou se quiser, use os [Commits](lgshogun/ruby-exercises/commits/).
 
