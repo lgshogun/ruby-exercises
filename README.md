@@ -3,7 +3,7 @@ Alguns exercícios que eu realizei em Ruby, apenas para aprender e demonstrar me
 
 -
 
-Para saber do progresso e updates realizados, use o [Changelog](CHANGELOG.md), lá irá conter tudo que realizei até então. Ou se quiser, use os [Commits](lgshogun/ruby-exercises/commits/).
+Para saber do progresso e updates realizados, use o [Changelog](CHANGELOG.md), lá irá conter tudo que realizei até então. Ou se quiser, use os [Commits](https://github.com/lgshogun/ruby-exercises/commits).
 
 ---
 
